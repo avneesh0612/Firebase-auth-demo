@@ -1,0 +1,14 @@
+.login {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50vh;
+}
+
+.login > button {
+  width: 400px;
+  height: 100px;
+  color: white;
+  font-size: 30px;
+  background-color: #ffbd2e;
+}
